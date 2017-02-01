@@ -1,16 +1,16 @@
-typography_spectrum: 0.26238562958315015
+layout_spectrum: 0.5559948303151212
+typography_spectrum: 0.7267067309835981
 color:
-  brandStrength: 0.8446715553291142
-  lightness: 0.3916321217548102
-  saturation: 0.3587829153984785
-  rhythmicContrast: 0.9094726808834821
+  brandStrength: 0.15122238430286766
+  lightness: 0.005937339899379133
+  saturation: 0.05210968296661383
+  rhythmicContrast: 0.705683447628531
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.8200913250911981
+    - '#FFFFFF'
+    - '#FFF500'
+    - '#1B3582'
+    - '#3BB3C3'
+    - '#E57976'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae3317cf-ce02-445c-a3b7-3539212520df.jpg
 name: CHILD DEVELOPMENT CENTER
