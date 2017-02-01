@@ -27,3 +27,6 @@ purpose:
   - type: contact
     url: 'mailto:cdc@universityumc.org'
     label: Email
+  - type: contact
+    url: 'tel:7027337157'
+    label: Call 7027337157
