@@ -26,4 +26,4 @@ github: true
 purpose:
   - type: contact
     url: 'mailto:cdc@universityumc.org'
-    label: Contact me
+    label: Email
