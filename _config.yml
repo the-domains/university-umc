@@ -1,0 +1,25 @@
+typography_spectrum: 0.26238562958315015
+color:
+  brandStrength: 0.8446715553291142
+  lightness: 0.3916321217548102
+  saturation: 0.3587829153984785
+  rhythmicContrast: 0.9094726808834821
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.8200913250911981
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae3317cf-ce02-445c-a3b7-3539212520df.jpg
+name: CHILD DEVELOPMENT CENTER
+url: 'https://thegrid.ai/uumcdc.com/'
+navigation:
+  - name: ABOUT US
+    id: adf7109b-dac9-4c6f-af62-127396f5cdb2
+    type: content
+title: CHILD DEVELOPMENT CENTER
+content: []
+description: university umc
+github: true
